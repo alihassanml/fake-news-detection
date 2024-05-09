@@ -1,5 +1,7 @@
 ## Fake News Detection using Machine Learning ##
 
+** Kaggle ** https://www.kaggle.com/code/alihassanml/fake-news-detection
+
 **Description:**
 This project aims to detect fake news using machine learning techniques. The project utilizes Python and several libraries for data manipulation, natural language processing (NLP), and machine learning.
 
