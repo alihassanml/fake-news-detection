@@ -3,7 +3,7 @@
 
 This repository contains code for a machine learning project focused on detecting fake news. The project utilizes Python and various libraries such as Pandas, NumPy, Matplotlib, NLTK, and Scikit-learn.
 
-## Kaggle : ## https://www.kaggle.com/code/alihassanml/fake-news-detection
+**Kaggle :** https://www.kaggle.com/code/alihassanml/fake-news-detection
 
 
 ## Overview
