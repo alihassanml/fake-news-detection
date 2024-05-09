@@ -1,12 +1,10 @@
-Certainly! Below is a sample README.md file for your GitHub repository:
-
----
-
-##Kaggle :## https://www.kaggle.com/code/alihassanml/fake-news-detection
  
 # Fake News Detection Project
 
 This repository contains code for a machine learning project focused on detecting fake news. The project utilizes Python and various libraries such as Pandas, NumPy, Matplotlib, NLTK, and Scikit-learn.
+
+## Kaggle :## https://www.kaggle.com/code/alihassanml/fake-news-detection
+
 
 ## Overview
 
